@@ -15,11 +15,7 @@ I plan to work as Data Analyst and deal with creating dashboards and visualizati
 
 For example I would like to achieve this for my visualizations, eventually:
 
-First viz
 
-[COVID line graph](flourish.md)
-
-<div class="flourish-embed flourish-chart" data-src="visualisation/7642583"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 ## Portfolio
