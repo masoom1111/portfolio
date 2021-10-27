@@ -2,6 +2,7 @@
 This is my public portfolio for Telling Stories with Data.
 
 ## About me
+[](https://drive.google.com/drive/u/0/my-drive)
 This is **Masoom Patel**. I am a Master's student in **Information Systems Management** at **Carnegie Mellon University**. Having a bachelors in **Computer Science**, I am confident that I have the analytical skills with a blend of managerial skills. Interning at _United Nations Development Programme_ as a **Data Management and Visualization** intern gave me the exposure and experience in dealing with data visually. Visualization is a powerful tool and I wish to add it in my arsenal of skills, refining it and being in par with the latest technologies.
 
 ## What I hope to learn
