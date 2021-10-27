@@ -3,7 +3,8 @@ This is my public portfolio for Telling Stories with Data (Data Visualization Po
 
 ## About me
 ![Profile Pic](https://user-images.githubusercontent.com/30127254/138990046-d154b66d-5cc9-40b8-b999-fa2450bba031.jpg)
-<img src="https://user-images.githubusercontent.com/30127254/138990046-d154b66d-5cc9-40b8-b999-fa2450bba031.jpg" width=200/>
+<img src="https://user-images.githubusercontent.com/30127254/138990046-d154b66d-5cc9-40b8-b999-fa2450bba031.jpg" width=100/>
+
 This is **Masoom Patel** and my pronouns are he/him. I am a Master's student in **Information Systems Management** at **Carnegie Mellon University**. Having a bachelors in **Computer Science**, I am confident that I have the analytical skills with a blend of managerial skills. Interning at _United Nations Development Programme_ as a **Data Management and Visualization** intern gave me the exposure and experience in dealing with data visually. Visualization is a powerful tool and I wish to add it in my arsenal of skills, refining it and being in par with the latest technologies.
 
 Apart from the academics, you can always find me either working out or playing sports. I love travelling and hence was part of the Global track at CMU, where I got to experience both it's campuses, Australia and Pittsburgh. I am a firm believer of the quote 'If it is not impossible, then I will make it possible'.
