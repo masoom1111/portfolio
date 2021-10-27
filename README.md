@@ -22,10 +22,10 @@ I plan to work as Data Analyst and deal with creating dashboards and visualizati
 
 ## Portfolio
 
-COVID line graph  
+[COVID line graph](flourish.md)
 >Usage of contrasting colors along with an interpretable chart design
 
-<script src="https://public.flourish.studio/resources/embed.js"></script>
+<div class="flourish-embed flourish-chart" data-src="visualisation/7642583"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 1. Assignment 1
