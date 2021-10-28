@@ -27,6 +27,8 @@ I plan to work as Data Analyst and deal with creating dashboards and visualizati
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7642583"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+[DataViz](Dataviz.md)
+
 
 1. Assignment 1
 2. Assignment 2
