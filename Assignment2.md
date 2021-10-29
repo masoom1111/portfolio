@@ -9,3 +9,9 @@
 # VIZ 2 via flourish
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7675634"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# VIZ 3 via flourish
+
+<div class="flourish-embed flourish-hierarchy" data-src="visualisation/7676681"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# VIZ 4 via Tableau
