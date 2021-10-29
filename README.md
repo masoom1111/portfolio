@@ -31,6 +31,6 @@ I plan to work as Data Analyst and deal with creating dashboards and visualizati
 
 
 1. Assignment 1
-2. Assignment 2
+2. [Assignment 2](Assignment 2.md)
 3. Assignment 3
 4. Final Project
