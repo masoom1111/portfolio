@@ -1,8 +1,8 @@
-# Working with web-based visualization tools and data
+# Assignmet 2: Working with web-based visualization tools and data
 
-## Government Debt to GDP during Recession
+## VIZ 1: OECD Website 
 
-### During the 2008 Recession, USA was 5th in Debt-to-GDP ratio, much higher than the country average. 
+### Government Debt to GDP during Recession: During the 2008 Recession, USA was 5th in Debt-to-GDP ratio, much higher than the country average. 
 
 <iframe src="https://data.oecd.org/chart/6vi6" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6vi6" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2008</a></iframe>
 
