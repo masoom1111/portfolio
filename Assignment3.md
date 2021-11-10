@@ -139,20 +139,3 @@ Here I made it into grid of bar graphs, along with that lightened the red color 
 
 # [Portfolio Main Page](https://masoom1111.github.io/portfolio/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Option3](https://user-images.githubusercontent.com/30127254/141027488-cfbb7976-6573-4783-9598-2d360e57c0b7.jpeg)
