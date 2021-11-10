@@ -1,4 +1,4 @@
-#Assignment 3&4
+# Assignment 3&4
 
 This assignment served a purpose to find a visualization -> Critique it -> Wireframe your solution -> Get First Hand Feedback -> Final Implementation (Revamped Viz)
 Here's the process I followed:
