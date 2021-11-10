@@ -47,7 +47,7 @@ As I did not have sketch pens of same color with different shades, I tried to us
 
 ## Testing the solutions
 
-### Interview 1: Jeet Desai (Masters in Mechanical Engineering- Cricket Fan -> Suitable Audience)
+### Interview 1: (Mechanical Engineer- Cricket Fan -> Suitable Audience)
 For option 1
 - Can you tell me what you think this is?
 
@@ -72,7 +72,7 @@ I would add what the average line exactly means and also add red color for dismi
 For Option 2 additional comment:
 Very confusing, to figure out what is bigger and what is not. Avoid this style as not very user friendly for a fan to analyse such a heat map style. Makes you think a lot to understand what it means.
 
-### Interview 2: Devansh Dhrafani (Robotics Intern- Not a Cricket Fan)
+### Interview 2: (Robotics Intern- Not a Cricket Fan)
 
 - Can you tell me what you think this is?
 
