@@ -41,5 +41,7 @@ In short the Takeaway the audience got was:
   b)Polio's mortality rate was much higher than COVID, hence, people had lesser fear for COVID and still juggling with the conspiracy theories
   c)Polio vaccine took 20 years to develop, compared to COVID in around 6 months (40:1 ratio). 
   
-  # [Portfolio Main Page](https://masoom1111.github.io/portfolio/)
+  #[Portfolio Main Page](https://masoom1111.github.io/portfolio/)
+# [Portfolio Main Page](https://masoom1111.github.io/portfolio/)
+
 
