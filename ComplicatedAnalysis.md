@@ -30,7 +30,7 @@ Also I used Tableau to see the current Polio status in the world.
 
 
 <iframe
-  src ="https://public.tableau.com/views/CurrentPOLIO/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" width="90%" height="800" seamless frameborder="0"
+  src ="https://public.tableau.com/views/CurrentPOLIO/Dashboard1?:showVizHome=no&:embed=true" width="90%" height="800" seamless frameborder="0"
 scrolling="no"></iframe>
 
 4. Were you successful? Why or why not?
