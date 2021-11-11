@@ -1,5 +1,5 @@
 # Complicated Analysis
-*Masoom Patel*
+*By: Masoom Patel*
 
 Q) Describe one of the most complicated analyses you have conducted in order to provide insight or convince. Please make sure to cover:
 
@@ -41,4 +41,5 @@ In short the Takeaway the audience got was:
   b)Polio's mortality rate was much higher than COVID, hence, people had lesser fear for COVID and still juggling with the conspiracy theories
   c)Polio vaccine took 20 years to develop, compared to COVID in around 6 months (40:1 ratio). 
   
+  # [Portfolio Main Page](https://masoom1111.github.io/portfolio/)
 
