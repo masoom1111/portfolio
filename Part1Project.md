@@ -24,24 +24,25 @@ Lastly, I will want to predict the future of COVID vaccination, if and when ever
 
 ## Data
 
-The data that I will be collecting will be from:
+The data that I will be collecting will be from reliable sources and in the form of csv files, so that I can simply access the dataset and download it and then use it create my own visualizations for the project, to tell my story.
 
+This data set is from Ourworldindata, which provides downloadable dataset of their graphs. I can use this dataset, to fulfill by Timeline aim showing case rate with mortality rate.
 [Polio Viz Data](https://ourworldindata.org/grapher/polio-rate-of-cases-vs-vaccination-coverage)
 
+This csv file containing state-wise cumulative cases will aid me in creating the COVID timeline as discussed above.
+[COVID Timeline CSV](https://github.com/nytimes/covid-19-data/blob/master/rolling-averages/us-states.csv)
+
+This CDC government website shows the current polio cases around the world and after some cleaning of this dataset, I will be able to leverage the Tableau Map features to create a map of it.
+[Current Polio Cases](https://www.cdc.gov/mmwr/volumes/70/wr/mm7034a1.htm#T1_down)
+
+This csv contains the COVID vaccination rate, to show it's efficacy through a line chart viz.
+[COVID Vaccination Rate](https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv)
+
+This dataset will help cover the emotional aspect of *public trust* and use it to gain some insights based on the viz.
+[Public Trust](https://www.pewresearch.org/politics/2021/05/17/public-trust-in-government-1958-2021/)
+
+Lastly, this dataset is about the herd immunity and using it to predict the future, making the final viz where the viewer can be left on a high positve emotional reaction.
+[Herd Immunity/Future Prediction](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/when-will-the-covid-19-pandemic-end)
 
 
-https://github.com/nytimes/covid-19-data/blob/master/rolling-averages/us-states.csv
-
-
-https://www.cdc.gov/mmwr/volumes/70/wr/mm7034a1.htm#T1_down
-
-https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv
-
-https://www.pewresearch.org/politics/2021/05/17/public-trust-in-government-1958-2021/
-
-https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/when-will-the-covid-19-pandemic-end
-
-
-
-First I will collect data about California’s minimum wage workers, I will focus this research in one of the areas of Amazon’s warehouses and calculate an estimate on the cost of living and compare that to the minimum wage and how many house the person will need to work to cover for themselves, and for a family of three. I would also calculate how much money it would cost of amazon to offset their emissions. Then I will compare these extra costs with how much profit amazon is generating.
 
