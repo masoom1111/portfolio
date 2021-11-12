@@ -22,3 +22,26 @@ Next, I would like the viewer to also shift focus from statistics to emotional f
 
 Lastly, I will want to predict the future of COVID vaccination, if and when everyone pledges to accept and take the COVID vaccine(s) and future booster doses. This will make the emotional factor end on a high and leave the viewer with a motivation and maybe nudge them to make others aware and join the pledge too. 
 
+## Data
+
+The data that I will be collecting will be from:
+
+[Polio Viz Data](https://ourworldindata.org/grapher/polio-rate-of-cases-vs-vaccination-coverage)
+
+
+
+https://github.com/nytimes/covid-19-data/blob/master/rolling-averages/us-states.csv
+
+
+https://www.cdc.gov/mmwr/volumes/70/wr/mm7034a1.htm#T1_down
+
+https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv
+
+https://www.pewresearch.org/politics/2021/05/17/public-trust-in-government-1958-2021/
+
+https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/when-will-the-covid-19-pandemic-end
+
+
+
+First I will collect data about California’s minimum wage workers, I will focus this research in one of the areas of Amazon’s warehouses and calculate an estimate on the cost of living and compare that to the minimum wage and how many house the person will need to work to cover for themselves, and for a family of three. I would also calculate how much money it would cost of amazon to offset their emissions. Then I will compare these extra costs with how much profit amazon is generating.
+
