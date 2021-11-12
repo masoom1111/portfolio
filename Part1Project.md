@@ -46,7 +46,7 @@ Lastly, this dataset is about the herd immunity and using it to predict the futu
 
 ## Method and Medium
 
-My project is packed with visualizations and leveraging them to make insights, hence using Shorthand will be the most optimum way to go about. Shorthand with it's dynamic and engaging feature will be able to embed my visualizations across Flourish and Tableau specifically. 
+My project is packed with visualizations and leveraging them to make insights, hence using Shorthand will be the most optimum way to go about. Shorthand with it's dynamic and engaging feature will be able to embed my visualizations across Flourish and Tableau specifically. (PENDING:  MORE ON SHORTHAND)
 
 Currently what I have in mind, is whenver I will be comparing Polio and COVID to divide the screen in 2 parts, each on one side, so the viewer can have a side-by-side glance of both the visualizations. 
 
