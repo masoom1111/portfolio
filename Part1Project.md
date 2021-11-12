@@ -44,5 +44,15 @@ This dataset will help cover the emotional aspect of *public trust* and use it t
 Lastly, this dataset is about the herd immunity and using it to predict the future, making the final viz where the viewer can be left on a high positve emotional reaction.
 [Herd Immunity/Future Prediction](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/when-will-the-covid-19-pandemic-end)
 
+## Method and Medium
+
+My project is packed with visualizations and leveraging them to make insights, hence using Shorthand will be the most optimum way to go about. Shorthand with it's dynamic and engaging feature will be able to embed my visualizations across Flourish and Tableau specifically. 
+
+Currently what I have in mind, is whenver I will be comparing Polio and COVID to divide the screen in 2 parts, each on one side, so the viewer can have a side-by-side glance of both the visualizations. 
+
+I intend to follow a methodical structure of Hypothesis/Exploration Points, followed by Visualizations and then Takeaway from it. My visualizations will cover these types-Bar chart, Line Chart (with/without Grid), Scatter Plots, Box Plots and Map. I intend to make most of these dynamic and user-friendly. 
+
+In the end, as part of the call to action, I would like them to take a pledge by either signing a form or just checkbox ticking, confirming that they pledge to take the vaccine(s) or the future booster doses.
+
 
 
