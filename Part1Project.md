@@ -73,3 +73,5 @@ Currently what I have in mind, is whenver I will be comparing Polio and COVID to
 I intend to follow a methodical structure of Hypothesis/Exploration Points, followed by Visualizations and then Takeaway from it. My visualizations will cover these types-Bar chart, Line Chart (with/without Grid), Scatter Plots, Box Plots and Map. I intend to make most of these dynamic and user-friendly. 
 
 In the end, as part of the call to action, I would like them to take a pledge by either signing a form or just checkbox ticking, confirming that they pledge to take the vaccine(s) or the future booster doses.
+
+# [Portfolio Main Page](https://masoom1111.github.io/portfolio/)
