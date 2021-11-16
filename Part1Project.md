@@ -22,6 +22,26 @@ Next, I would like the viewer to also shift focus from statistics to emotional f
 
 Lastly, I will want to predict the future of COVID vaccination, if and when everyone pledges to accept and take the COVID vaccine(s) and future booster doses. This will make the emotional factor end on a high and leave the viewer with a motivation and maybe nudge them to make others aware and join the pledge too. 
 
+## Sketches
+
+![Polio1](https://user-images.githubusercontent.com/30127254/141885618-2c3f63b9-22e6-4488-b78e-049d7b7cad13.jpeg)
+
+This sketch depicts my idea of comparing the timelines of Polio and Covid side by side, showcasing the case rate along with the mortality rate. With the annotations of vaccination and other important event occurings on the timeline.
+
+![Polio2](https://user-images.githubusercontent.com/30127254/141885620-c937c56d-3410-46d3-9d7d-67003d42286f.jpeg)
+
+This sketch depicts the world map and using the map viz, to show active cases of Polio in the world.
+
+
+![Covid1](https://user-images.githubusercontent.com/30127254/141885622-5baf9e49-7a0b-4cfb-8dde-b21bc481b385.jpeg)
+
+This sketch depicts the detailed COVID timeline of new cases, hospitalised and % fully vaccination. This makes it go deeper into COVID.
+
+
+![Covid2](https://user-images.githubusercontent.com/30127254/141885617-e77722a3-d8cf-4a0d-89fe-60a239dedc97.jpeg)
+
+This sketch provides the future prediciton based on the current vaccination data. Here the lines might depict the states (few of them) with similar trends to use regression to predict the future trend. 
+
 ## Data
 
 The data that I will be collecting will be from reliable sources and in the form of csv files, so that I can simply access the dataset and download it and then use it create my own visualizations for the project, to tell my story.
