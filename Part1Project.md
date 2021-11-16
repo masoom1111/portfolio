@@ -40,13 +40,13 @@ This sketch depicts the detailed COVID timeline of new cases, hospitalised and %
 
 ![Covid2](https://user-images.githubusercontent.com/30127254/141885617-e77722a3-d8cf-4a0d-89fe-60a239dedc97.jpeg)
 
-This sketch provides the future prediciton based on the current vaccination data. Here the lines might depict the states (few of them) with similar trends to use regression to predict the future trend. 
+This sketch provides the future prediction based on the current vaccination data. Here the lines might depict the states (few of them) with similar trends to use regression to predict the future trend. 
 
 ## Data
 
 The data that I will be collecting will be from reliable sources and in the form of csv files, so that I can simply access the dataset and download it and then use it create my own visualizations for the project, to tell my story.
 
-This data set is from Ourworldindata, which provides downloadable dataset of their graphs. I can use this dataset, to fulfill by Timeline aim showing case rate with mortality rate.
+This data set is from Ourworldindata, which provides a downloadable dataset of their graphs. I can use this dataset, to fulfill by Timeline aim showing case rate with mortality rate.
 [Polio Viz Data](https://ourworldindata.org/grapher/polio-rate-of-cases-vs-vaccination-coverage)
 
 This csv file containing state-wise cumulative cases will aid me in creating the COVID timeline as discussed above.
@@ -55,7 +55,7 @@ This csv file containing state-wise cumulative cases will aid me in creating the
 This CDC government website shows the current polio cases around the world and after some cleaning of this dataset, I will be able to leverage the Tableau Map features to create a map of it.
 [Current Polio Cases](https://www.cdc.gov/mmwr/volumes/70/wr/mm7034a1.htm#T1_down)
 
-This csv contains the COVID vaccination rate, to show it's efficacy through a line chart viz.
+This csv contains the COVID vaccination rate, to show its efficacy through a line chart viz.
 [COVID Vaccination Rate](https://github.com/owid/covid-19-data/blob/master/public/data/vaccinations/us_state_vaccinations.csv)
 
 This dataset will help cover the emotional aspect of *public trust* and use it to gain some insights based on the viz.
@@ -66,11 +66,11 @@ Lastly, this dataset is about the herd immunity and using it to predict the futu
 
 ## Method and Medium
 
-My project is packed with visualizations and leveraging them to make insights, hence using Shorthand will be the most optimum way to go about. Shorthand with it's dynamic and engaging feature will be able to embed my visualizations across Flourish and Tableau specifically. I still have to explore Shorthand in depth, to leverage its functionalities and try to make COVID data, more engaging and not bore out the audience.
+My project is packed with visualizations and leveraging them to make insights, hence using Shorthand will be the most optimum way to go about. Shorthand with it's dynamic and engaging feature will be able to embed my visualizations across Flourish and Tableau specifically. I still have to explore Shorthand in depth, to leverage its functionalities and try to make COVID data, more engaging and not bore out the audience. I would also like to use unsplash for free images and Balsamiq for wireframes.
 
-Currently what I have in mind, is whenver I will be comparing Polio and COVID to divide the screen in 2 parts, each on one side, so the viewer can have a side-by-side glance of both the visualizations. 
+Currently what I have in mind, is whenever I will be comparing Polio and COVID to divide the screen in 2 parts, each on one side, so the viewer can have a side-by-side glance of both the visualizations. 
 
-I intend to follow a methodical structure of Hypothesis/Exploration Points, followed by Visualizations and then Takeaway from it. My visualizations will cover these types-Bar chart, Line Chart (with/without Grid), Scatter Plots, Box Plots and Map. I intend to make most of these dynamic and user-friendly. 
+I intend to follow a methodical structure of Hypothesis/Exploration Points, followed by Visualizations and then Takeaway from it. My visualizations will cover these types-Bar chart, Line Chart (with/without Grid), Scatter Plots, Box Plots, and Map. I intend to make most of these dynamic and user-friendly. 
 
 In the end, as part of the call to action, I would like them to take a pledge by either signing a form or just checkbox ticking, confirming that they pledge to take the vaccine(s) or the future booster doses.
 
