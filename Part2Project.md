@@ -1,5 +1,9 @@
 # The Tail of 2 Vaccines: From Polio to COVID (Part 2)
 
+# Storyboard
+
+<script src="https://carnegiemellon.shorthandstories.com/the-tail-of-2-vaccines/embed.js"></script>
+
 ## User Research and Interviews
 
 Questions  | Interviewee 1
