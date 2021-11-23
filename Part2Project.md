@@ -6,7 +6,7 @@
 
 ## User Research and Interviews
 
-Questions  | Interviewee 1 | Interviewee 2
+Questions  | Interviewee 1 (MEIM Grad) | Interviewee 2 (MS in Mech)
 ------------- | ------------- | -------------
 Can you tell me what you think this is?  | It shows the journey of vaccines for polio as well as covid. | Effectiveness of governments and policies on major pandemics/diseases portrayed using the prominent examples of polio and covid-19.
 Can you describe to me what this is telling you?  | This showcases a comparison of the polio vaccine with the covid vaccine with factors such as case rate, death rate. It also talks about aspects such as trust associated with vaccine.| It is representing the trends of reported cases for polio and covid-19 with effects of vaccine trials and vaccine rollouts.
