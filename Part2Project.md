@@ -25,7 +25,7 @@ Who do you think is the intended audience for this? | The general public seems t
 Is there anything you would change or do differently? | The graphs could be a bit more coherent. It takes a minute to understand what's happening owing to the size of the graphs. It seems too congested in the first drafts of the graphs. Maybe the acknowlegement of why polio's vaccine journey has been compared to covid's vaccine journey could help users understand more as to why they should trust the vaccine. | There could have been data for another pandemic level disease and the overall visual representation could have been more attractive to the general public. | The covid data is only representative of US citizens. Since the polio visuals include trends for global data, I think there should be more detailed analysis for worldwide covid data as well.| I would like to see the negatives of not taking the vaccine.
 
 ### Finding from interviews
-
+Firstly, my intended audience was aligned with what response the interviewees gave i.e. the general audience and those who are hesitant to take the vaccine. Secondly, the audience has been able to clearly interpret the visualizations and get the impact of how long the vaccines took to develop and see the death rate. Lastly, my transition of polio to covid was also appreciated and well recognised and the audience could understand where the call of action was being drived to. 
 
 
 ### Peer feedback from classroom group
@@ -33,6 +33,8 @@ Is there anything you would change or do differently? | The graphs could be a bi
 The main things which came out here was the storyline looked coherent. Some nuances which were pointed were to make the labels horizontal in the timeline visualizations and bold them. Another suggestion was to make a timelapse of Polio cases over the year. Also to make the map colors coherent and avoiding the blue and making it red so its uniform throughout. 
 
 ### Changes I plan to implement for final project presentation
+
+I plan to implement a historical drive in polio and focus on the negative effect of not taking a vaccine, so the audience can see the "LOW" and then transition into a "HIGH". I plan to make some tweaks in my labelling of certain visualizations and need to cite the images. The visualization should be in a new HTML section and not squeeze them with the text. Adding texts to support, would also be useful in some cases, to provide the audience with some takeaways. Some tweaks I plan to make is to add another interactive visualization, to show the negative impact, also if possible to showcase a worldwide data set for comparison of COVID with polio. Apart from that, I plan to make the trust rate visualization, like a timeline and get the user to ponder and resonate with the visualization. Lastly, the forecast shows a "HIGH" point they can witness in the future, with the herd immunity and then conlcude with the call of action.
 
 
 ## Moodboard
