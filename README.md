@@ -35,6 +35,7 @@ I plan to work as Data Analyst and deal with creating dashboards and visualizati
 3. [Assignment 3](Assignment3.md)
 4. [Final Project Part 1](Part1Project.md)
 5. [Final Project Part 2](Part2Project.md)
+6. [Final Project Part 3](Part3Project.md)
 
 More Tasks:
 [ComplicatedAnalysis](ComplicatedAnalysis.md)
