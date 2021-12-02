@@ -2,7 +2,9 @@
 
 # Storyboard
 
-<script src="https://carnegiemellon.shorthandstories.com/the-tail-of-2-vaccines/embed.js"></script>
+<!-- <script src="https://carnegiemellon.shorthandstories.com/the-tail-of-2-vaccines/embed.js"></script> -->
+
+<script src= "https://carnegiemellon.shorthandstories.com/the-tail-of-2-vaccines-prototype-/embed.js"></script>
 
 ## User Research and Interviews
 
