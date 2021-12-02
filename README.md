@@ -36,7 +36,7 @@ I plan to work as Data Analyst and deal with creating dashboards and visualizati
 4. [Final Project Part 1](Part1Project.md)
 5. [Final Project Part 2](Part2Project.md)
 6. [Final Project Part 3](Part3Project.md)
-7. [Final Project-Shorthand-Story]("https://carnegiemellon.shorthandstories.com/the-tail-of-2-vaccines/index.html")
+7. [Final Project-Shorthand-Story](https://carnegiemellon.shorthandstories.com/the-tail-of-2-vaccines/index.html)
 
 More Tasks:
 [ComplicatedAnalysis](ComplicatedAnalysis.md)
