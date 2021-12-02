@@ -35,5 +35,6 @@ Apart from this, I have learned how to critique a visualization and make it tell
 Exploring various tools and platforms, I have added a lot of arsenal to my visualization skills and this makes me strive to learn more by applying all that I have learned in my future work. 
 
 # [The *Tail* of 2 Vaccines](https://carnegiemellon.shorthandstories.com/the-tail-of-2-vaccines/index.html)
+<script src="https://carnegiemellon.shorthandstories.com/the-tail-of-2-vaccines/embed.js"></script>
 
 # [Portfolio Main Page](https://masoom1111.github.io/portfolio/)
