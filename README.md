@@ -30,7 +30,7 @@ I plan to work as Data Analyst and deal with creating dashboards and visualizati
 [DataViz](Dataviz.md)
 
 
-1. Assignment 1  
+1. Assignment 1  \
 This consisted of setting up the github portfolio and getting accustomed to it. It also involved some sketches and basic visualizations performed in class.
 2. [Assignment 2](Assignment2.md)
 3. [Assignment 3](Assignment3.md)
@@ -40,5 +40,5 @@ This consisted of setting up the github portfolio and getting accustomed to it. 
 7. [Final Project-Shorthand-Story](https://carnegiemellon.shorthandstories.com/the-tail-of-2-vaccines/index.html)
 
 ## Independent Projects
-[ComplicatedAnalysis](ComplicatedAnalysis.md)  
+[ComplicatedAnalysis](ComplicatedAnalysis.md)  \
 Other existing independent projects coming soon!
