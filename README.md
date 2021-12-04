@@ -31,7 +31,7 @@ I plan to work as Data Analyst and deal with creating dashboards and visualizati
 
 
 1. Assignment 1
-This consisted of setting up the github portfolio and getting accustomed to it. It also involved some sketches and basic visualizations performed in class.
+* This consisted of setting up the github portfolio and getting accustomed to it. It also involved some sketches and basic visualizations performed in class.
 2. [Assignment 2](Assignment2.md)
 3. [Assignment 3](Assignment3.md)
 4. [Final Project Part 1](Part1Project.md)
